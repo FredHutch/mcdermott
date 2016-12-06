@@ -1,0 +1,2997 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.4.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "CytoscapeTbl.txt",
+    "name" : "CytoscapeTbl.txt",
+    "SUID" : 62,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "119",
+        "shared_name" : "CD274",
+        "pos2Neg" : 1.625779626,
+        "Alias" : "PD-L1",
+        "neg2Naive" : 0.488258152,
+        "name" : "CD274",
+        "SUID" : 119,
+        "pos2Naive" : 0.79337726,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -232.52764672616024,
+        "y" : -719.7852783203125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "shared_name" : "RELA",
+        "Alias" : "NF-kB",
+        "name" : "RELA",
+        "SUID" : 118,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -402.29268323224983,
+        "y" : -190.79317694327335
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "shared_name" : "NFKB1",
+        "Alias" : "NF-kB",
+        "name" : "NFKB1",
+        "SUID" : 117,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -467.639404296875,
+        "y" : -190.79317694327335
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "shared_name" : "NFATC2",
+        "Alias" : "NFAT",
+        "name" : "NFATC2",
+        "SUID" : 116,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -63.84315373813709,
+        "y" : -234.19906616210938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "shared_name" : "NFATC1",
+        "Alias" : "NFAT",
+        "name" : "NFATC1",
+        "SUID" : 115,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -103.86819341098865,
+        "y" : -266.52996826171875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "shared_name" : "MT2",
+        "Alias" : "MT2",
+        "name" : "MT2",
+        "SUID" : 114,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 262.54817639631233,
+        "y" : -548.0318029676475
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "shared_name" : "MT1",
+        "Alias" : "MT1",
+        "name" : "MT1",
+        "SUID" : 113,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 211.0620466355701,
+        "y" : -548.0318029676475
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "shared_name" : "FOS",
+        "pos2Neg" : 1.647773279,
+        "Alias" : "AP-1",
+        "neg2Naive" : 0.754545455,
+        "name" : "FOS",
+        "SUID" : 112,
+        "pos2Naive" : 1.239393939,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 202.54432678222656,
+        "y" : -184.64796007829707
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "shared_name" : "MAPK8",
+        "Alias" : "",
+        "name" : "MAPK8",
+        "SUID" : 111,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 190.54543494937533,
+        "y" : -362.22566128378827
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "shared_name" : "MAPK1",
+        "Alias" : "ERK2",
+        "name" : "MAPK1",
+        "SUID" : 110,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 94.92790222167969,
+        "y" : -455.7586473341564
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "shared_name" : "JUN",
+        "pos2Neg" : 2.261904762,
+        "Alias" : "AP-1",
+        "neg2Naive" : 0.186710599,
+        "name" : "JUN",
+        "SUID" : 109,
+        "pos2Naive" : 0.419549698,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 150.83876037597656,
+        "y" : -203.65232409196892
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "shared_name" : "ERK1",
+        "Alias" : "ERK1",
+        "name" : "ERK1",
+        "SUID" : 108,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 143.23428344726562,
+        "y" : -414.8997606154064
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "shared_name" : "HRAS",
+        "Alias" : "",
+        "name" : "HRAS",
+        "SUID" : 107,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -212.85780829820033,
+        "y" : -468.2699083204846
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "shared_name" : "KRAS",
+        "Alias" : "",
+        "name" : "KRAS",
+        "SUID" : 106,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -203.91697692871094,
+        "y" : -508.0571092482189
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "shared_name" : "NRAS",
+        "Alias" : "",
+        "name" : "NRAS",
+        "SUID" : 105,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -223.5867462158203,
+        "y" : -422.69990979474983
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "shared_name" : "EOMES",
+        "pos2Neg" : 3.275130738,
+        "Alias" : "EOMES",
+        "neg2Naive" : 1.308262108,
+        "name" : "EOMES",
+        "SUID" : 104,
+        "pos2Naive" : 4.28300095,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4.4389985914806545,
+        "y" : 528.9423828125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "shared_name" : "KLRG1",
+        "pos2Neg" : 0.359285714,
+        "Alias" : "KLRG1",
+        "neg2Naive" : 51.92592593,
+        "name" : "KLRG1",
+        "SUID" : 103,
+        "pos2Naive" : 18.7037037,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -63.66925371843378,
+        "y" : 529.3120727539062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "shared_name" : "PRF1",
+        "Alias" : "",
+        "name" : "PRF1",
+        "SUID" : 102,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -130.165771484375,
+        "y" : 523.0870557908436
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "shared_name" : "GZMA",
+        "pos2Neg" : 0.097203857,
+        "Alias" : "GZMA",
+        "neg2Naive" : 80.43493299,
+        "name" : "GZMA",
+        "SUID" : 101,
+        "pos2Naive" : 7.820146995,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -189.03274536132812,
+        "y" : 506.4700229397973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "shared_name" : "ZN",
+        "Alias" : "Zn++",
+        "name" : "ZN",
+        "SUID" : 100,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 237.7057135643671,
+        "y" : -626.0762742872814
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "shared_name" : "Exhaustion",
+        "Alias" : "Exhaustion",
+        "name" : "Exhaustion",
+        "SUID" : 99,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 237.7057135643671,
+        "y" : -717.9970899705311
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "shared_name" : "GZMB",
+        "pos2Neg" : 0.08744527,
+        "Alias" : "GZMB",
+        "neg2Naive" : 1434.875,
+        "name" : "GZMB",
+        "SUID" : 98,
+        "pos2Naive" : 125.4814815,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -247.84915924072266,
+        "y" : 486.3823655958752
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "shared_name" : "BATF",
+        "Alias" : "BATF",
+        "name" : "BATF",
+        "SUID" : 97,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -234.53125381469727,
+        "y" : 208.1300026831915
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "shared_name" : "proliferation",
+        "Alias" : "",
+        "name" : "proliferation",
+        "SUID" : 96,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 137.53438348153134,
+        "y" : 527.6434936523438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "shared_name" : "HIF1a",
+        "Alias" : "",
+        "name" : "HIF1a",
+        "SUID" : 95,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -175.29319323259395,
+        "y" : 276.3835291478201
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "shared_name" : "E2A",
+        "Alias" : "E2A",
+        "name" : "E2A",
+        "SUID" : 94,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 190.19435222682063,
+        "y" : 276.3835291478201
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "shared_name" : "CXCR5",
+        "pos2Neg" : 67.34361233,
+        "Alias" : "CXCR5",
+        "neg2Naive" : 0.480083857,
+        "name" : "CXCR5",
+        "SUID" : 93,
+        "pos2Naive" : 32.0524109,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 264.73319567400017,
+        "y" : 369.8349412794689
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "shared_name" : "TCF7",
+        "Alias" : "TCF-1",
+        "name" : "TCF7",
+        "SUID" : 92,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -73.87408770280878,
+        "y" : 363.5524183396717
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "shared_name" : "interferons",
+        "Alias" : "",
+        "name" : "interferons",
+        "SUID" : 91,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -447.550029170094,
+        "y" : 258.0222581740002
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "shared_name" : "MYC",
+        "Alias" : "c-MYC",
+        "name" : "MYC",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 137.53438348153134,
+        "y" : 439.1966356154064
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "shared_name" : "GATA3",
+        "pos2Neg" : 0.544069193,
+        "Alias" : "GATA3",
+        "neg2Naive" : 0.68325601,
+        "name" : "GATA3",
+        "SUID" : 89,
+        "pos2Naive" : 0.371994939,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -96.29110614720283,
+        "y" : 276.3835291478201
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "PRDM1",
+        "pos2Neg" : 0.145358599,
+        "Alias" : "BLIMP-1",
+        "neg2Naive" : 26.73717949,
+        "name" : "PRDM1",
+        "SUID" : 88,
+        "pos2Naive" : 3.897435897,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 22.180405693617487,
+        "y" : 276.3835291478201
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "BCL6",
+        "pos2Neg" : 11.8961039,
+        "Alias" : "BCL6",
+        "neg2Naive" : 0.123662307,
+        "name" : "BCL6",
+        "SUID" : 87,
+        "pos2Naive" : 1.453824812,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -247.84915924072266,
+        "y" : 365.82909070295295
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "IL2RB",
+        "pos2Neg" : 0.433119737,
+        "Alias" : "IL2RB",
+        "neg2Naive" : 8.221597021,
+        "name" : "IL2RB",
+        "SUID" : 86,
+        "pos2Naive" : 3.560998483,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -100.40359057146114,
+        "y" : 82.18508749625187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "ID3",
+        "pos2Neg" : 15.11335677,
+        "Alias" : "ID3",
+        "neg2Naive" : 0.133591141,
+        "name" : "ID3",
+        "SUID" : 85,
+        "pos2Naive" : 2.015702818,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 264.73319567400017,
+        "y" : 200.97727966308594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "IL2",
+        "pos2Neg" : 2.545454545,
+        "Alias" : "IL2",
+        "neg2Naive" : 1.733333333,
+        "name" : "IL2",
+        "SUID" : 84,
+        "pos2Naive" : 4.0,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -282.7115783691406,
+        "y" : 82.18508749625187
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "EGR1",
+        "pos2Neg" : 2.306355242,
+        "Alias" : "EGR1",
+        "neg2Naive" : 0.335701275,
+        "name" : "EGR1",
+        "SUID" : 83,
+        "pos2Naive" : 0.773770492,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 29.738130569458008,
+        "y" : -288.81238878923455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "PDCD1",
+        "Alias" : "PD-1",
+        "name" : "PDCD1",
+        "SUID" : 82,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -234.53125381469727,
+        "y" : -120.43294202131231
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "FOXO1",
+        "Alias" : "FOXO1",
+        "name" : "FOXO1",
+        "SUID" : 81,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -353.2963104248047,
+        "y" : -328.95281982421875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "PRKCQ",
+        "Alias" : "",
+        "name" : "PRKCQ",
+        "SUID" : 80,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -234.53125381469727,
+        "y" : -317.67172447317245
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "CA",
+        "Alias" : "Ca++",
+        "name" : "CA",
+        "SUID" : 79,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -38.819843876781064,
+        "y" : -319.21136474609375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "PI3K",
+        "Alias" : "PI3K",
+        "name" : "PI3K",
+        "SUID" : 78,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -353.2963104248047,
+        "y" : -424.60089111328125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "CD28",
+        "pos2Neg" : 1.653389465,
+        "Alias" : "CD28",
+        "neg2Naive" : 1.005153241,
+        "name" : "CD28",
+        "SUID" : 77,
+        "pos2Naive" : 1.661838893,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -353.2963104248047,
+        "y" : -631.8836391894961
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "Adhesion",
+        "Alias" : "Adhesion",
+        "name" : "Adhesion",
+        "SUID" : 76,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -103.41192626953125,
+        "y" : -719.7852783203125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "TCR",
+        "Alias" : "TCR",
+        "name" : "TCR",
+        "SUID" : 75,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -60.30681610107422,
+        "y" : -631.8836391894961
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "ZAP70",
+        "Alias" : "ZAP70",
+        "name" : "ZAP70",
+        "SUID" : 74,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -100.53033550318779,
+        "y" : -548.0318029676475
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "LCK",
+        "Alias" : "LCK",
+        "name" : "LCK",
+        "SUID" : 73,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -20.93817930838565,
+        "y" : -548.0318029676475
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "CD8",
+        "Alias" : "CD8",
+        "name" : "CD8",
+        "SUID" : 72,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 37.01633071899414,
+        "y" : -631.8836391894961
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "213",
+        "source" : "119",
+        "target" : "74",
+        "expEff" : 0.47,
+        "expCXCR5neg" : 0.13,
+        "shared_interaction" : "interacts with",
+        "Reference" : "NA",
+        "expTcm" : -0.65,
+        "exp_Tex" : -0.53,
+        "shared_name" : "CD274 (interacts with) ZAP70",
+        "expNaive" : 0.24,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "CD274 (interacts with) ZAP70",
+        "interaction" : "interacts with",
+        "SUID" : 213,
+        "interactionNo" : 0,
+        "expCXCR5pos" : -0.89,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "212",
+        "source" : "118",
+        "target" : "86",
+        "expEff" : -0.28,
+        "expCXCR5neg" : 0.33,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : -0.17,
+        "exp_Tex" : 0.66,
+        "shared_name" : "RELA (interacts with) IL2RB",
+        "expNaive" : 0.4,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "RELA (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 212,
+        "interactionNo" : 38,
+        "expCXCR5pos" : -0.53,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "211",
+        "source" : "118",
+        "target" : "84",
+        "expEff" : 0.59,
+        "expCXCR5neg" : -0.53,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.69,
+        "exp_Tex" : 0.75,
+        "shared_name" : "RELA (interacts with) IL2",
+        "expNaive" : -0.37,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "RELA (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 211,
+        "interactionNo" : 22,
+        "expCXCR5pos" : -0.37,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "210",
+        "source" : "118",
+        "target" : "88",
+        "expEff" : 0.81,
+        "expCXCR5neg" : -0.2,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.9,
+        "exp_Tex" : 0.87,
+        "shared_name" : "RELA (interacts with) PRDM1",
+        "expNaive" : 0.07,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "RELA (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 210,
+        "interactionNo" : 21,
+        "expCXCR5pos" : 0.61,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "209",
+        "source" : "118",
+        "target" : "82",
+        "expEff" : 0.7,
+        "expCXCR5neg" : 0.24,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bally et al, 2016, Genetic and Epigenetic Regulation of PDCD1 Expression",
+        "expTcm" : 0.66,
+        "exp_Tex" : 0.94,
+        "shared_name" : "RELA (interacts with) PDCD1",
+        "expNaive" : -0.83,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "RELA (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 209,
+        "interactionNo" : 20,
+        "expCXCR5pos" : -0.12,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "208",
+        "source" : "117",
+        "target" : "86",
+        "expEff" : -0.82,
+        "expCXCR5neg" : 0.04,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : -0.54,
+        "exp_Tex" : -0.78,
+        "shared_name" : "NFKB1 (interacts with) IL2RB",
+        "expNaive" : 0.35,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "NFKB1 (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 208,
+        "interactionNo" : 38,
+        "expCXCR5pos" : -0.54,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "207",
+        "source" : "117",
+        "target" : "84",
+        "expEff" : 0.82,
+        "expCXCR5neg" : -0.53,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : -0.2,
+        "exp_Tex" : 0.23,
+        "shared_name" : "NFKB1 (interacts with) IL2",
+        "expNaive" : -0.77,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "NFKB1 (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 207,
+        "interactionNo" : 22,
+        "expCXCR5pos" : 0.22,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "206",
+        "source" : "117",
+        "target" : "88",
+        "expEff" : -0.39,
+        "expCXCR5neg" : -0.51,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : -0.57,
+        "exp_Tex" : 0.29,
+        "shared_name" : "NFKB1 (interacts with) PRDM1",
+        "expNaive" : 0.15,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "NFKB1 (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 206,
+        "interactionNo" : 21,
+        "expCXCR5pos" : 0.53,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "205",
+        "source" : "117",
+        "target" : "82",
+        "expEff" : -0.32,
+        "expCXCR5neg" : 0.84,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bally et al, 2016, Genetic and Epigenetic Regulation of PDCD1 Expression",
+        "expTcm" : 0.31,
+        "exp_Tex" : 0.26,
+        "shared_name" : "NFKB1 (interacts with) PDCD1",
+        "expNaive" : 1.0,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "NFKB1 (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 205,
+        "interactionNo" : 20,
+        "expCXCR5pos" : -0.42,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "204",
+        "source" : "116",
+        "target" : "86",
+        "expEff" : -0.54,
+        "expCXCR5neg" : -0.81,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : -0.75,
+        "exp_Tex" : 0.08,
+        "shared_name" : "NFATC2 (interacts with) IL2RB",
+        "expNaive" : 0.19,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC2 (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 204,
+        "interactionNo" : 38,
+        "expCXCR5pos" : 0.87,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "203",
+        "source" : "116",
+        "target" : "84",
+        "expEff" : 0.19,
+        "expCXCR5neg" : 0.01,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.33,
+        "exp_Tex" : -0.73,
+        "shared_name" : "NFATC2 (interacts with) IL2",
+        "expNaive" : -0.58,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC2 (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 203,
+        "interactionNo" : 22,
+        "expCXCR5pos" : -0.91,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "202",
+        "source" : "116",
+        "target" : "88",
+        "expEff" : 0.72,
+        "expCXCR5neg" : -0.37,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : -0.67,
+        "exp_Tex" : -0.52,
+        "shared_name" : "NFATC2 (interacts with) PRDM1",
+        "expNaive" : -0.98,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC2 (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 202,
+        "interactionNo" : 21,
+        "expCXCR5pos" : -0.71,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "201",
+        "source" : "116",
+        "target" : "82",
+        "expEff" : 0.75,
+        "expCXCR5neg" : -0.45,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bally et al, 2016, Genetic and Epigenetic Regulation of PDCD1 Expression",
+        "expTcm" : 0.35,
+        "exp_Tex" : -0.2,
+        "shared_name" : "NFATC2 (interacts with) PDCD1",
+        "expNaive" : -0.39,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC2 (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 201,
+        "interactionNo" : 20,
+        "expCXCR5pos" : -0.03,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "200",
+        "source" : "115",
+        "target" : "86",
+        "expEff" : 0.39,
+        "expCXCR5neg" : -0.16,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : -0.93,
+        "exp_Tex" : -0.54,
+        "shared_name" : "NFATC1 (interacts with) IL2RB",
+        "expNaive" : -0.42,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC1 (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 200,
+        "interactionNo" : 38,
+        "expCXCR5pos" : -0.47,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "199",
+        "source" : "115",
+        "target" : "84",
+        "expEff" : 0.46,
+        "expCXCR5neg" : -0.99,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.12,
+        "exp_Tex" : -0.83,
+        "shared_name" : "NFATC1 (interacts with) IL2",
+        "expNaive" : 0.99,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC1 (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 199,
+        "interactionNo" : 22,
+        "expCXCR5pos" : 0.21,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "198",
+        "source" : "115",
+        "target" : "88",
+        "expEff" : 0.21,
+        "expCXCR5neg" : 0.69,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.93,
+        "exp_Tex" : -0.46,
+        "shared_name" : "NFATC1 (interacts with) PRDM1",
+        "expNaive" : -0.33,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC1 (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 198,
+        "interactionNo" : 21,
+        "expCXCR5pos" : 0.75,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "197",
+        "source" : "115",
+        "target" : "82",
+        "expEff" : -0.68,
+        "expCXCR5neg" : 0.19,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bally et al, 2016, Genetic and Epigenetic Regulation of PDCD1 Expression",
+        "expTcm" : -0.53,
+        "exp_Tex" : 0.79,
+        "shared_name" : "NFATC1 (interacts with) PDCD1",
+        "expNaive" : -0.86,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC1 (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 197,
+        "interactionNo" : 20,
+        "expCXCR5pos" : -0.29,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "196",
+        "source" : "115",
+        "target" : "115",
+        "expEff" : 0.87,
+        "expCXCR5neg" : -0.29,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Serfling et al, 2006, NFATC2 autoregulation: a crucial step for cellfate determination",
+        "expTcm" : 0.5,
+        "exp_Tex" : 0.73,
+        "shared_name" : "NFATC1 (interacts with) NFATC1",
+        "expNaive" : 0.55,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "NFATC1 (interacts with) NFATC1",
+        "interaction" : "interacts with",
+        "SUID" : 196,
+        "interactionNo" : 14,
+        "expCXCR5pos" : 0.38,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "195",
+        "source" : "113",
+        "target" : "110",
+        "expEff" : 0.93,
+        "expCXCR5neg" : -0.9,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lazarczyk et al, 2012, EVER Proteins, Key Elements of the Natural AntiHuman Papillomavirus Barrier, Are Regulated upon TCell Activation",
+        "expTcm" : 0.58,
+        "exp_Tex" : 0.93,
+        "shared_name" : "MT1 (interacts with) MAPK1",
+        "expNaive" : 0.19,
+        "GroupNo" : "MAPK",
+        "interactionSign" : "pos",
+        "name" : "MT1 (interacts with) MAPK1",
+        "interaction" : "interacts with",
+        "SUID" : 195,
+        "interactionNo" : 51,
+        "expCXCR5pos" : -0.21,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "194",
+        "source" : "113",
+        "target" : "108",
+        "expEff" : 0.47,
+        "expCXCR5neg" : -0.96,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lazarczyk et al, 2012, EVER Proteins, Key Elements of the Natural AntiHuman Papillomavirus Barrier, Are Regulated upon TCell Activation",
+        "expTcm" : 0.8,
+        "exp_Tex" : 0.43,
+        "shared_name" : "MT1 (interacts with) ERK1",
+        "expNaive" : -0.25,
+        "GroupNo" : "MAPK",
+        "interactionSign" : "pos",
+        "name" : "MT1 (interacts with) ERK1",
+        "interaction" : "interacts with",
+        "SUID" : 194,
+        "interactionNo" : 51,
+        "expCXCR5pos" : -0.86,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "193",
+        "source" : "112",
+        "target" : "86",
+        "expEff" : 0.08,
+        "expCXCR5neg" : -0.98,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : 0.89,
+        "exp_Tex" : -0.11,
+        "shared_name" : "FOS (interacts with) IL2RB",
+        "expNaive" : 0.82,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "FOS (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 193,
+        "interactionNo" : 38,
+        "expCXCR5pos" : -0.68,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "192",
+        "source" : "112",
+        "target" : "84",
+        "expEff" : 0.88,
+        "expCXCR5neg" : -0.99,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : -0.13,
+        "exp_Tex" : -0.53,
+        "shared_name" : "FOS (interacts with) IL2",
+        "expNaive" : -0.85,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "FOS (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 192,
+        "interactionNo" : 22,
+        "expCXCR5pos" : 0.44,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "191",
+        "source" : "112",
+        "target" : "88",
+        "expEff" : 0.6,
+        "expCXCR5neg" : 0.58,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : -0.58,
+        "exp_Tex" : -0.03,
+        "shared_name" : "FOS (interacts with) PRDM1",
+        "expNaive" : 0.79,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "FOS (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 191,
+        "interactionNo" : 21,
+        "expCXCR5pos" : -0.37,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "190",
+        "source" : "112",
+        "target" : "82",
+        "expEff" : -0.43,
+        "expCXCR5neg" : -0.57,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bally et al, 2016, Genetic and Epigenetic Regulation of PDCD1 Expression",
+        "expTcm" : 0.68,
+        "exp_Tex" : 0.62,
+        "shared_name" : "FOS (interacts with) PDCD1",
+        "expNaive" : 0.3,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "FOS (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 190,
+        "interactionNo" : 20,
+        "expCXCR5pos" : 0.23,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "189",
+        "source" : "111",
+        "target" : "112",
+        "expEff" : -0.95,
+        "expCXCR5neg" : 0.71,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : 0.5,
+        "exp_Tex" : 0.22,
+        "shared_name" : "MAPK8 (interacts with) FOS",
+        "expNaive" : 0.47,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "MAPK8 (interacts with) FOS",
+        "interaction" : "interacts with",
+        "SUID" : 189,
+        "interactionNo" : 17,
+        "expCXCR5pos" : 0.51,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "188",
+        "source" : "111",
+        "target" : "109",
+        "expEff" : -0.56,
+        "expCXCR5neg" : 0.19,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : 0.67,
+        "exp_Tex" : 0.25,
+        "shared_name" : "MAPK8 (interacts with) JUN",
+        "expNaive" : 0.26,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "MAPK8 (interacts with) JUN",
+        "interaction" : "interacts with",
+        "SUID" : 188,
+        "interactionNo" : 17,
+        "expCXCR5pos" : 0.46,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "187",
+        "source" : "110",
+        "target" : "83",
+        "expEff" : 0.44,
+        "expCXCR5neg" : 0.97,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Collins et al, 2007, Opposing regulation of T cell function by Egr1/NAB2 and Egr2/Egr3",
+        "expTcm" : -0.22,
+        "exp_Tex" : -0.31,
+        "shared_name" : "MAPK1 (interacts with) EGR1",
+        "expNaive" : -0.48,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "MAPK1 (interacts with) EGR1",
+        "interaction" : "interacts with",
+        "SUID" : 187,
+        "interactionNo" : 18,
+        "expCXCR5pos" : -0.45,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "186",
+        "source" : "110",
+        "target" : "112",
+        "expEff" : -0.84,
+        "expCXCR5neg" : 0.38,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.7,
+        "exp_Tex" : 0.97,
+        "shared_name" : "MAPK1 (interacts with) FOS",
+        "expNaive" : 0.44,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "MAPK1 (interacts with) FOS",
+        "interaction" : "interacts with",
+        "SUID" : 186,
+        "interactionNo" : 17,
+        "expCXCR5pos" : 0.44,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "185",
+        "source" : "110",
+        "target" : "109",
+        "expEff" : 0.57,
+        "expCXCR5neg" : 0.69,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.44,
+        "exp_Tex" : 0.71,
+        "shared_name" : "MAPK1 (interacts with) JUN",
+        "expNaive" : -0.57,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "MAPK1 (interacts with) JUN",
+        "interaction" : "interacts with",
+        "SUID" : 185,
+        "interactionNo" : 17,
+        "expCXCR5pos" : -0.87,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "184",
+        "source" : "109",
+        "target" : "86",
+        "expEff" : 0.17,
+        "expCXCR5neg" : 0.36,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : -0.13,
+        "exp_Tex" : 1.0,
+        "shared_name" : "JUN (interacts with) IL2RB",
+        "expNaive" : 0.97,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "JUN (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 184,
+        "interactionNo" : 38,
+        "expCXCR5pos" : 0.2,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "183",
+        "source" : "109",
+        "target" : "84",
+        "expEff" : 0.85,
+        "expCXCR5neg" : -0.24,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.1,
+        "exp_Tex" : 0.86,
+        "shared_name" : "JUN (interacts with) IL2",
+        "expNaive" : 0.52,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "JUN (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 183,
+        "interactionNo" : 22,
+        "expCXCR5pos" : 0.98,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "182",
+        "source" : "109",
+        "target" : "88",
+        "expEff" : -0.85,
+        "expCXCR5neg" : -0.72,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Martins & Calame, 2008, Regulation and Functions of PRDM1 in T and B Lymphocytes",
+        "expTcm" : 0.37,
+        "exp_Tex" : 0.23,
+        "shared_name" : "JUN (interacts with) PRDM1",
+        "expNaive" : 0.81,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "JUN (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 182,
+        "interactionNo" : 21,
+        "expCXCR5pos" : 1.0,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "181",
+        "source" : "109",
+        "target" : "82",
+        "expEff" : 0.13,
+        "expCXCR5neg" : -0.98,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bally et al, 2016, Genetic and Epigenetic Regulation of PDCD1 Expression",
+        "expTcm" : 0.48,
+        "exp_Tex" : -0.11,
+        "shared_name" : "JUN (interacts with) PDCD1",
+        "expNaive" : 0.17,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "JUN (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 181,
+        "interactionNo" : 20,
+        "expCXCR5pos" : -0.02,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "180",
+        "source" : "108",
+        "target" : "83",
+        "expEff" : 0.41,
+        "expCXCR5neg" : 0.56,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Collins et al, 2007, Opposing regulation of T cell function by Egr1/NAB2 and Egr2/Egr3",
+        "expTcm" : -0.75,
+        "exp_Tex" : -0.01,
+        "shared_name" : "ERK1 (interacts with) EGR1",
+        "expNaive" : -0.52,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "ERK1 (interacts with) EGR1",
+        "interaction" : "interacts with",
+        "SUID" : 180,
+        "interactionNo" : 18,
+        "expCXCR5pos" : 0.39,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "179",
+        "source" : "108",
+        "target" : "112",
+        "expEff" : 0.17,
+        "expCXCR5neg" : -0.03,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.19,
+        "exp_Tex" : -0.9,
+        "shared_name" : "ERK1 (interacts with) FOS",
+        "expNaive" : 0.91,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "ERK1 (interacts with) FOS",
+        "interaction" : "interacts with",
+        "SUID" : 179,
+        "interactionNo" : 17,
+        "expCXCR5pos" : -0.92,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "178",
+        "source" : "108",
+        "target" : "109",
+        "expEff" : -0.7,
+        "expCXCR5neg" : 0.44,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : 0.46,
+        "exp_Tex" : 0.41,
+        "shared_name" : "ERK1 (interacts with) JUN",
+        "expNaive" : -0.84,
+        "GroupNo" : "AP-1",
+        "interactionSign" : "pos",
+        "name" : "ERK1 (interacts with) JUN",
+        "interaction" : "interacts with",
+        "SUID" : 178,
+        "interactionNo" : 17,
+        "expCXCR5pos" : 1.0,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "397",
+        "source" : "107",
+        "target" : "111",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 397,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "395",
+        "source" : "107",
+        "target" : "108",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 395,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "389",
+        "source" : "107",
+        "target" : "110",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 389,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "393",
+        "source" : "106",
+        "target" : "111",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 393,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "385",
+        "source" : "106",
+        "target" : "108",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 385,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "379",
+        "source" : "106",
+        "target" : "110",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 379,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "403",
+        "source" : "105",
+        "target" : "111",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 403,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "401",
+        "source" : "105",
+        "target" : "108",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 401,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "399",
+        "source" : "105",
+        "target" : "110",
+        "shared_name" : "pd",
+        "name" : "pd",
+        "SUID" : 399,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "100",
+        "target" : "114",
+        "expEff" : -0.95,
+        "expCXCR5neg" : -0.87,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lazarczyk et al, 2012, EVER Proteins, Key Elements of the Natural AntiHuman Papillomavirus Barrier, Are Regulated upon TCell Activation",
+        "expTcm" : -0.18,
+        "exp_Tex" : -0.14,
+        "shared_name" : "ZN (interacts with) MT2",
+        "expNaive" : 0.29,
+        "GroupNo" : "MT",
+        "interactionSign" : "pos",
+        "name" : "ZN (interacts with) MT2",
+        "interaction" : "interacts with",
+        "SUID" : 177,
+        "interactionNo" : 50,
+        "expCXCR5pos" : -0.99,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "100",
+        "target" : "113",
+        "expEff" : -0.38,
+        "expCXCR5neg" : -0.39,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lazarczyk et al, 2012, EVER Proteins, Key Elements of the Natural AntiHuman Papillomavirus Barrier, Are Regulated upon TCell Activation",
+        "expTcm" : -0.74,
+        "exp_Tex" : 0.6,
+        "shared_name" : "ZN (interacts with) MT1",
+        "expNaive" : 0.41,
+        "GroupNo" : "MT",
+        "interactionSign" : "pos",
+        "name" : "ZN (interacts with) MT1",
+        "interaction" : "interacts with",
+        "SUID" : 176,
+        "interactionNo" : 50,
+        "expCXCR5pos" : -0.67,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "99",
+        "target" : "100",
+        "expEff" : -0.31,
+        "expCXCR5neg" : -0.17,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Singer et al, 2016, A Distinct Gene Module for Dysfunction Uncoupled from Activation in TumorInfiltrating T Cells",
+        "expTcm" : 0.6,
+        "exp_Tex" : -0.06,
+        "shared_name" : "Exhaustion (interacts with) ZN",
+        "expNaive" : -0.35,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "Exhaustion (interacts with) ZN",
+        "interaction" : "interacts with",
+        "SUID" : 175,
+        "interactionNo" : 49,
+        "expCXCR5pos" : -0.37,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "97",
+        "target" : "87",
+        "expEff" : 0.86,
+        "expCXCR5neg" : -0.85,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Ise et al, 2011, The transcription factor BATF controls the global regulators of classswitch recombination in both B cells and T cells",
+        "expTcm" : -0.53,
+        "exp_Tex" : -0.36,
+        "shared_name" : "BATF (interacts with) BCL6",
+        "expNaive" : 0.25,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "BATF (interacts with) BCL6",
+        "interaction" : "interacts with",
+        "SUID" : 174,
+        "interactionNo" : 46,
+        "expCXCR5pos" : -0.19,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "95",
+        "target" : "90",
+        "expEff" : 0.56,
+        "expCXCR5neg" : -0.83,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Hough et al, 2015, Transcriptional regulation of T  cell  metabolism",
+        "expTcm" : 0.98,
+        "exp_Tex" : 0.12,
+        "shared_name" : "HIF1a (interacts with) MYC",
+        "expNaive" : -0.82,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "HIF1a (interacts with) MYC",
+        "interaction" : "interacts with",
+        "SUID" : 173,
+        "interactionNo" : 42,
+        "expCXCR5pos" : 0.35,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "94",
+        "target" : "92",
+        "expEff" : -0.73,
+        "expCXCR5neg" : -0.54,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : -0.56,
+        "exp_Tex" : -0.18,
+        "shared_name" : "E2A (interacts with) TCF7",
+        "expNaive" : 0.08,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "E2A (interacts with) TCF7",
+        "interaction" : "interacts with",
+        "SUID" : 172,
+        "interactionNo" : 44,
+        "expCXCR5pos" : -0.83,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "94",
+        "target" : "93",
+        "expEff" : 0.36,
+        "expCXCR5neg" : 0.03,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : 0.61,
+        "exp_Tex" : -0.29,
+        "shared_name" : "E2A (interacts with) CXCR5",
+        "expNaive" : -0.66,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "E2A (interacts with) CXCR5",
+        "interaction" : "interacts with",
+        "SUID" : 171,
+        "interactionNo" : 34,
+        "expCXCR5pos" : 0.96,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "92",
+        "target" : "90",
+        "expEff" : 0.38,
+        "expCXCR5neg" : 0.78,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Zhou et al, 2010, Differentiation and Persistence of Memory CD8+ T Cells Depend on T Cell Factor 1",
+        "expTcm" : 0.72,
+        "exp_Tex" : 0.17,
+        "shared_name" : "TCF7 (interacts with) MYC",
+        "expNaive" : -0.83,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "TCF7 (interacts with) MYC",
+        "interaction" : "interacts with",
+        "SUID" : 170,
+        "interactionNo" : 48,
+        "expCXCR5pos" : 0.4,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "92",
+        "target" : "104",
+        "expEff" : 0.57,
+        "expCXCR5neg" : 0.84,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Zhou et al, 2010, Differentiation and Persistence of Memory CD8+ T Cells Depend on T Cell Factor 1",
+        "expTcm" : -0.34,
+        "exp_Tex" : 0.74,
+        "shared_name" : "TCF7 (interacts with) EOMES",
+        "expNaive" : 0.96,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "TCF7 (interacts with) EOMES",
+        "interaction" : "interacts with",
+        "SUID" : 169,
+        "interactionNo" : 48,
+        "expCXCR5pos" : -0.9,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "92",
+        "target" : "103",
+        "expEff" : 0.31,
+        "expCXCR5neg" : -0.69,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Zhou et al, 2010, Differentiation and Persistence of Memory CD8+ T Cells Depend on T Cell Factor 1",
+        "expTcm" : 0.69,
+        "exp_Tex" : -0.03,
+        "shared_name" : "TCF7 (interacts with) KLRG1",
+        "expNaive" : 0.31,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "TCF7 (interacts with) KLRG1",
+        "interaction" : "interacts with",
+        "SUID" : 168,
+        "interactionNo" : 48,
+        "expCXCR5pos" : -0.54,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "92",
+        "target" : "102",
+        "expEff" : 0.46,
+        "expCXCR5neg" : -0.8,
+        "shared_interaction" : "interacts with",
+        "Reference" : "NA",
+        "expTcm" : -0.68,
+        "exp_Tex" : 0.97,
+        "shared_name" : "TCF7 (interacts with) PRF1",
+        "expNaive" : -0.31,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "TCF7 (interacts with) PRF1",
+        "interaction" : "interacts with",
+        "SUID" : 167,
+        "interactionNo" : 0,
+        "expCXCR5pos" : 0.26,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "92",
+        "target" : "98",
+        "expEff" : 0.42,
+        "expCXCR5neg" : 0.29,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Zhou et al, 2010, Differentiation and Persistence of Memory CD8+ T Cells Depend on T Cell Factor 1",
+        "expTcm" : 0.96,
+        "exp_Tex" : 0.12,
+        "shared_name" : "TCF7 (interacts with) GZMB",
+        "expNaive" : -0.11,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "TCF7 (interacts with) GZMB",
+        "interaction" : "interacts with",
+        "SUID" : 166,
+        "interactionNo" : 48,
+        "expCXCR5pos" : -0.83,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "92",
+        "target" : "101",
+        "expEff" : -0.37,
+        "expCXCR5neg" : 0.3,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Zhou et al, 2010, Differentiation and Persistence of Memory CD8+ T Cells Depend on T Cell Factor 1",
+        "expTcm" : -0.56,
+        "exp_Tex" : 0.27,
+        "shared_name" : "TCF7 (interacts with) GZMA",
+        "expNaive" : 0.12,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "TCF7 (interacts with) GZMA",
+        "interaction" : "interacts with",
+        "SUID" : 165,
+        "interactionNo" : 48,
+        "expCXCR5pos" : -0.45,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "92",
+        "target" : "93",
+        "expEff" : -0.99,
+        "expCXCR5neg" : 0.45,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Choi et al, 2015, EF1 and TCF7 orchestrate T(FH) differentiation by regulating differentiation circuits upstream of the transcriptional repressor Bcl6",
+        "expTcm" : -0.54,
+        "exp_Tex" : 0.18,
+        "shared_name" : "TCF7 (interacts with) CXCR5",
+        "expNaive" : 0.21,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "TCF7 (interacts with) CXCR5",
+        "interaction" : "interacts with",
+        "SUID" : 164,
+        "interactionNo" : 35,
+        "expCXCR5pos" : 0.88,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "91",
+        "target" : "87",
+        "expEff" : 0.95,
+        "expCXCR5neg" : -0.47,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Nakayamada et al, 2014, Type I IFN induces binding of STAT1 to Bcl6: divergent roles of STAT family transcription factors in the T follicular helper cell genetic program. Zhou et al, 2005, Induction of BCL6 gene expression by interferongamma and identification of an IRE in exon",
+        "expTcm" : -0.2,
+        "exp_Tex" : -0.13,
+        "shared_name" : "interferons (interacts with) BCL6",
+        "expNaive" : -0.53,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "interferons (interacts with) BCL6",
+        "interaction" : "interacts with",
+        "SUID" : 163,
+        "interactionNo" : 29,
+        "expCXCR5pos" : -0.44,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "90",
+        "target" : "96",
+        "expEff" : 0.75,
+        "expCXCR5neg" : 0.39,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Hough et al, 2015, Transcriptional regulation of T  cell  metabolism",
+        "expTcm" : -0.77,
+        "exp_Tex" : -1.0,
+        "shared_name" : "MYC (interacts with) proliferation",
+        "expNaive" : -0.84,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "MYC (interacts with) proliferation",
+        "interaction" : "interacts with",
+        "SUID" : 162,
+        "interactionNo" : 43,
+        "expCXCR5pos" : -0.68,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "89",
+        "target" : "90",
+        "expEff" : 0.13,
+        "expCXCR5neg" : -0.89,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Wang et al, 2013, GATA3 controls the maintenance and proliferation of T cells downstream of TCR and cytokine signaling",
+        "expTcm" : -0.72,
+        "exp_Tex" : -0.52,
+        "shared_name" : "GATA3 (interacts with) MYC",
+        "expNaive" : -0.19,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "GATA3 (interacts with) MYC",
+        "interaction" : "interacts with",
+        "SUID" : 161,
+        "interactionNo" : 28,
+        "expCXCR5pos" : 0.66,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "88",
+        "target" : "90",
+        "expEff" : 0.07,
+        "expCXCR5neg" : -0.58,
+        "shared_interaction" : "interacts with",
+        "Reference" : "lin et al, 1997, Repression of cmyc transcription by PRDM1, an inducer of terminal B cell differentiation",
+        "expTcm" : -0.07,
+        "exp_Tex" : -0.45,
+        "shared_name" : "PRDM1 (interacts with) MYC",
+        "expNaive" : -0.82,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "PRDM1 (interacts with) MYC",
+        "interaction" : "interacts with",
+        "SUID" : 160,
+        "interactionNo" : 39,
+        "expCXCR5pos" : 0.19,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "source" : "88",
+        "target" : "93",
+        "expEff" : -0.23,
+        "expCXCR5neg" : 0.17,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : 0.16,
+        "exp_Tex" : 0.29,
+        "shared_name" : "PRDM1 (interacts with) CXCR5",
+        "expNaive" : -0.89,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "PRDM1 (interacts with) CXCR5",
+        "interaction" : "interacts with",
+        "SUID" : 159,
+        "interactionNo" : 32,
+        "expCXCR5pos" : -0.37,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "88",
+        "target" : "87",
+        "expEff" : -0.84,
+        "expCXCR5neg" : 0.93,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : 0.76,
+        "exp_Tex" : 0.27,
+        "shared_name" : "PRDM1 (interacts with) BCL6",
+        "expNaive" : 0.27,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "PRDM1 (interacts with) BCL6",
+        "interaction" : "interacts with",
+        "SUID" : 158,
+        "interactionNo" : 27,
+        "expCXCR5pos" : 0.07,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "87",
+        "target" : "98",
+        "expEff" : -0.08,
+        "expCXCR5neg" : -0.71,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Yoshida et al, 2006, Bcl6 controls granzyme B expression in effector CD8+ T cells",
+        "expTcm" : -0.56,
+        "exp_Tex" : -0.07,
+        "shared_name" : "BCL6 (interacts with) GZMB",
+        "expNaive" : -0.11,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "BCL6 (interacts with) GZMB",
+        "interaction" : "interacts with",
+        "SUID" : 157,
+        "interactionNo" : 47,
+        "expCXCR5pos" : -0.55,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "87",
+        "target" : "92",
+        "expEff" : 0.34,
+        "expCXCR5neg" : 0.23,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : 0.24,
+        "exp_Tex" : 0.86,
+        "shared_name" : "BCL6 (interacts with) TCF7",
+        "expNaive" : 0.25,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "BCL6 (interacts with) TCF7",
+        "interaction" : "interacts with",
+        "SUID" : 156,
+        "interactionNo" : 31,
+        "expCXCR5pos" : 0.41,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "87",
+        "target" : "88",
+        "expEff" : -0.74,
+        "expCXCR5neg" : 0.67,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : 0.32,
+        "exp_Tex" : 0.34,
+        "shared_name" : "BCL6 (interacts with) PRDM1",
+        "expNaive" : 0.73,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "BCL6 (interacts with) PRDM1",
+        "interaction" : "interacts with",
+        "SUID" : 155,
+        "interactionNo" : 26,
+        "expCXCR5pos" : -0.09,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "86",
+        "target" : "95",
+        "expEff" : -0.56,
+        "expCXCR5neg" : -0.89,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Oestreich et al, 2014, Bcl6 directly represses the gene program of the glycolysis pathway",
+        "expTcm" : 0.06,
+        "exp_Tex" : -0.19,
+        "shared_name" : "IL2RB (interacts with) HIF1a",
+        "expNaive" : -0.91,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "IL2RB (interacts with) HIF1a",
+        "interaction" : "interacts with",
+        "SUID" : 154,
+        "interactionNo" : 41,
+        "expCXCR5pos" : 0.81,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "86",
+        "target" : "89",
+        "expEff" : 0.48,
+        "expCXCR5neg" : 0.18,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Wan, 2014, GATA3: A master of many trades in immune regulation",
+        "expTcm" : -0.38,
+        "exp_Tex" : -0.62,
+        "shared_name" : "IL2RB (interacts with) GATA3",
+        "expNaive" : 0.29,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "IL2RB (interacts with) GATA3",
+        "interaction" : "interacts with",
+        "SUID" : 153,
+        "interactionNo" : 40,
+        "expCXCR5pos" : -0.89,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "85",
+        "target" : "94",
+        "expEff" : -0.9,
+        "expCXCR5neg" : 0.52,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : 0.11,
+        "exp_Tex" : -0.14,
+        "shared_name" : "ID3 (interacts with) E2A",
+        "expNaive" : 0.83,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "ID3 (interacts with) E2A",
+        "interaction" : "interacts with",
+        "SUID" : 152,
+        "interactionNo" : 36,
+        "expCXCR5pos" : -0.91,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "85",
+        "target" : "93",
+        "expEff" : -0.66,
+        "expCXCR5neg" : -0.01,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Leong et al, 2016, CXCR5+ follicular cytotoxic T cells control viral infection in B cell follicles",
+        "expTcm" : -0.08,
+        "exp_Tex" : 0.28,
+        "shared_name" : "ID3 (interacts with) CXCR5",
+        "expNaive" : -0.54,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "ID3 (interacts with) CXCR5",
+        "interaction" : "interacts with",
+        "SUID" : 151,
+        "interactionNo" : 33,
+        "expCXCR5pos" : -0.51,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "84",
+        "target" : "86",
+        "expEff" : -0.04,
+        "expCXCR5neg" : -0.05,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Liao et al, 2013, Interleukin2 at the Crossroads of Effector Responses, Tolerance, and Immunotherapy",
+        "expTcm" : -0.19,
+        "exp_Tex" : -0.77,
+        "shared_name" : "IL2 (interacts with) IL2RB",
+        "expNaive" : 0.03,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "IL2 (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 150,
+        "interactionNo" : 37,
+        "expCXCR5pos" : 0.52,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "84",
+        "target" : "87",
+        "expEff" : -0.99,
+        "expCXCR5neg" : -0.22,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Oestreich et al, 2014, Bcl6 directly represses the gene program of the glycolysis pathway",
+        "expTcm" : 0.79,
+        "exp_Tex" : -0.23,
+        "shared_name" : "IL2 (interacts with) BCL6",
+        "expNaive" : -0.76,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "IL2 (interacts with) BCL6",
+        "interaction" : "interacts with",
+        "SUID" : 149,
+        "interactionNo" : 30,
+        "expCXCR5pos" : 0.19,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "83",
+        "target" : "116",
+        "expEff" : 0.15,
+        "expCXCR5neg" : -0.54,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Decker et al, 1998, The Early Growth Response Protein (EGR1) Regulates Interleukin2 Transcription by Synergistic Interaction with the Nuclear Factor of Activated T Cells",
+        "expTcm" : -0.81,
+        "exp_Tex" : 0.77,
+        "shared_name" : "EGR1 (interacts with) NFATC2",
+        "expNaive" : 0.89,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "EGR1 (interacts with) NFATC2",
+        "interaction" : "interacts with",
+        "SUID" : 148,
+        "interactionNo" : 52,
+        "expCXCR5pos" : -0.92,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "83",
+        "target" : "115",
+        "expEff" : 0.27,
+        "expCXCR5neg" : 0.53,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Decker et al, 1998, The Early Growth Response Protein (EGR1) Regulates Interleukin2 Transcription by Synergistic Interaction with the Nuclear Factor of Activated T Cells",
+        "expTcm" : 0.65,
+        "exp_Tex" : 0.84,
+        "shared_name" : "EGR1 (interacts with) NFATC1",
+        "expNaive" : -0.12,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "EGR1 (interacts with) NFATC1",
+        "interaction" : "interacts with",
+        "SUID" : 147,
+        "interactionNo" : 52,
+        "expCXCR5pos" : 0.28,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "83",
+        "target" : "86",
+        "expEff" : -0.46,
+        "expCXCR5neg" : -0.11,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lin et al, 1996, The ImmediateEarly Gene Product Egr1 Regulates the Human Interleukin2 Receptor bChain Promoter through Noncanonical Egr and Sp1 Binding Sites",
+        "expTcm" : 0.75,
+        "exp_Tex" : -0.88,
+        "shared_name" : "EGR1 (interacts with) IL2RB",
+        "expNaive" : -0.11,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "EGR1 (interacts with) IL2RB",
+        "interaction" : "interacts with",
+        "SUID" : 146,
+        "interactionNo" : 25,
+        "expCXCR5pos" : 0.36,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "83",
+        "target" : "85",
+        "expEff" : 0.93,
+        "expCXCR5neg" : 0.2,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Bain et al, 2001, Regulation of the helixloophelix proteins, E2A and Id3, by the RasERK MAPK cascade",
+        "expTcm" : 0.86,
+        "exp_Tex" : 0.53,
+        "shared_name" : "EGR1 (interacts with) ID3",
+        "expNaive" : 0.64,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "EGR1 (interacts with) ID3",
+        "interaction" : "interacts with",
+        "SUID" : 145,
+        "interactionNo" : 24,
+        "expCXCR5pos" : 0.24,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "83",
+        "target" : "84",
+        "expEff" : 0.7,
+        "expCXCR5neg" : -0.1,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Skerka et al, 1995, A Regulatory Element in the Human Interleukin 2 Gene PromoterIs a Binding Site for the Zinc Finger Proteins Sp1 and EGR1",
+        "expTcm" : 0.2,
+        "exp_Tex" : 0.98,
+        "shared_name" : "EGR1 (interacts with) IL2",
+        "expNaive" : -0.61,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "EGR1 (interacts with) IL2",
+        "interaction" : "interacts with",
+        "SUID" : 144,
+        "interactionNo" : 23,
+        "expCXCR5pos" : 0.23,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "82",
+        "target" : "97",
+        "expEff" : -0.76,
+        "expCXCR5neg" : 0.92,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Quigley et al, 2010, Transcriptional analysis of HIVspecific CD8+ T cells shows that PDCD1 inhibits T cell function by upregulating BATF",
+        "expTcm" : 0.99,
+        "exp_Tex" : -0.07,
+        "shared_name" : "PDCD1 (interacts with) BATF",
+        "expNaive" : -0.53,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "PDCD1 (interacts with) BATF",
+        "interaction" : "interacts with",
+        "SUID" : 143,
+        "interactionNo" : 45,
+        "expCXCR5pos" : 0.88,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "82",
+        "target" : "74",
+        "expEff" : 0.7,
+        "expCXCR5neg" : -0.69,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Xia et al, 2015, Signaling pathway and dysregulation of PD1 and its ligands in lymphoid malignancies",
+        "expTcm" : -0.65,
+        "exp_Tex" : 0.04,
+        "shared_name" : "PDCD1 (interacts with) ZAP70",
+        "expNaive" : 0.39,
+        "GroupNo" : "none",
+        "interactionSign" : "neg",
+        "name" : "PDCD1 (interacts with) ZAP70",
+        "interaction" : "interacts with",
+        "SUID" : 142,
+        "interactionNo" : 13,
+        "expCXCR5pos" : 0.88,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "81",
+        "target" : "82",
+        "expEff" : -0.92,
+        "expCXCR5neg" : -0.9,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pauken & Wherry, 2015, Overcoming  T  cell  exhaustion  in infection  and  cancer",
+        "expTcm" : -1.0,
+        "exp_Tex" : -0.35,
+        "shared_name" : "FOXO1 (interacts with) PDCD1",
+        "expNaive" : 0.79,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "FOXO1 (interacts with) PDCD1",
+        "interaction" : "interacts with",
+        "SUID" : 141,
+        "interactionNo" : 19,
+        "expCXCR5pos" : -0.83,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "80",
+        "target" : "118",
+        "expEff" : 0.64,
+        "expCXCR5neg" : -0.93,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lin et al, 2000, Protein kinase Ctheta participates in NFkappa B activation induced by CD3CD28 costimulation through selective activation of ikappa B kinase beta.",
+        "expTcm" : 0.48,
+        "exp_Tex" : 0.68,
+        "shared_name" : "PRKCQ (interacts with) RELA",
+        "expNaive" : 0.12,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "PRKCQ (interacts with) RELA",
+        "interaction" : "interacts with",
+        "SUID" : 140,
+        "interactionNo" : 16,
+        "expCXCR5pos" : -0.48,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "80",
+        "target" : "117",
+        "expEff" : 0.52,
+        "expCXCR5neg" : 0.53,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Lin et al, 2000, Protein kinase Ctheta participates in NFkappa B activation induced by CD3CD28 costimulation through selective activation of ikappa B kinase beta.",
+        "expTcm" : 0.48,
+        "exp_Tex" : -0.47,
+        "shared_name" : "PRKCQ (interacts with) NFKB1",
+        "expNaive" : -0.46,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "PRKCQ (interacts with) NFKB1",
+        "interaction" : "interacts with",
+        "SUID" : 139,
+        "interactionNo" : 16,
+        "expCXCR5pos" : 0.94,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "79",
+        "target" : "116",
+        "expEff" : 0.25,
+        "expCXCR5neg" : 0.31,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Macian, 2006, NFAT PROTEINS: KEY REGULATORS OF TCELL DEVELOPMENT AND FUNCTION",
+        "expTcm" : 0.74,
+        "exp_Tex" : 0.34,
+        "shared_name" : "CA (interacts with) NFATC2",
+        "expNaive" : -0.59,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "CA (interacts with) NFATC2",
+        "interaction" : "interacts with",
+        "SUID" : 138,
+        "interactionNo" : 15,
+        "expCXCR5pos" : 0.24,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "79",
+        "target" : "115",
+        "expEff" : -0.05,
+        "expCXCR5neg" : -0.97,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Macian, 2006, NFAT PROTEINS: KEY REGULATORS OF TCELL DEVELOPMENT AND FUNCTION",
+        "expTcm" : -0.49,
+        "exp_Tex" : 0.33,
+        "shared_name" : "CA (interacts with) NFATC1",
+        "expNaive" : -0.33,
+        "GroupNo" : "NFAT",
+        "interactionSign" : "pos",
+        "name" : "CA (interacts with) NFATC1",
+        "interaction" : "interacts with",
+        "SUID" : 137,
+        "interactionNo" : 15,
+        "expCXCR5pos" : 0.24,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "78",
+        "target" : "81",
+        "expEff" : 0.85,
+        "expCXCR5neg" : -0.92,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pauken & Wherry, 2015, Overcoming  T  cell  exhaustion  in infection  and  cancer",
+        "expTcm" : -0.42,
+        "exp_Tex" : -0.28,
+        "shared_name" : "PI3K (interacts with) FOXO1",
+        "expNaive" : -0.7,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "PI3K (interacts with) FOXO1",
+        "interaction" : "interacts with",
+        "SUID" : 136,
+        "interactionNo" : 12,
+        "expCXCR5pos" : -0.13,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "77",
+        "target" : "118",
+        "expEff" : 0.28,
+        "expCXCR5neg" : -0.66,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : 0.28,
+        "exp_Tex" : -0.44,
+        "shared_name" : "CD28 (interacts with) RELA",
+        "expNaive" : -0.37,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) RELA",
+        "interaction" : "interacts with",
+        "SUID" : 135,
+        "interactionNo" : 9,
+        "expCXCR5pos" : -0.34,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "77",
+        "target" : "117",
+        "expEff" : -0.66,
+        "expCXCR5neg" : 0.56,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : 0.75,
+        "exp_Tex" : -0.16,
+        "shared_name" : "CD28 (interacts with) NFKB1",
+        "expNaive" : -0.6,
+        "GroupNo" : "NF-kB",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) NFKB1",
+        "interaction" : "interacts with",
+        "SUID" : 134,
+        "interactionNo" : 9,
+        "expCXCR5pos" : 0.45,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "77",
+        "target" : "107",
+        "expEff" : -0.48,
+        "expCXCR5neg" : -0.15,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Chen and Flies, 2013, Molecular mechanisms of T cell costimulation and coinhibition",
+        "expTcm" : 0.69,
+        "exp_Tex" : 0.2,
+        "shared_name" : "CD28 (interacts with) HRAS",
+        "expNaive" : 0.3,
+        "GroupNo" : "RAS",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) HRAS",
+        "interaction" : "interacts with",
+        "SUID" : 133,
+        "interactionNo" : 11,
+        "expCXCR5pos" : 0.74,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "77",
+        "target" : "106",
+        "expEff" : -0.41,
+        "expCXCR5neg" : -0.61,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Chen and Flies, 2013, Molecular mechanisms of T cell costimulation and coinhibition",
+        "expTcm" : -0.16,
+        "exp_Tex" : 0.78,
+        "shared_name" : "CD28 (interacts with) KRAS",
+        "expNaive" : 0.11,
+        "GroupNo" : "RAS",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) KRAS",
+        "interaction" : "interacts with",
+        "SUID" : 132,
+        "interactionNo" : 11,
+        "expCXCR5pos" : 0.88,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "77",
+        "target" : "105",
+        "expEff" : 0.35,
+        "expCXCR5neg" : 0.14,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Chen and Flies, 2013, Molecular mechanisms of T cell costimulation and coinhibition",
+        "expTcm" : -0.55,
+        "exp_Tex" : 0.61,
+        "shared_name" : "CD28 (interacts with) NRAS",
+        "expNaive" : -0.1,
+        "GroupNo" : "RAS",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) NRAS",
+        "interaction" : "interacts with",
+        "SUID" : 131,
+        "interactionNo" : 11,
+        "expCXCR5pos" : -0.6,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "77",
+        "target" : "80",
+        "expEff" : -0.47,
+        "expCXCR5neg" : 0.41,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.56,
+        "exp_Tex" : 0.42,
+        "shared_name" : "CD28 (interacts with) PRKCQ",
+        "expNaive" : 0.11,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) PRKCQ",
+        "interaction" : "interacts with",
+        "SUID" : 130,
+        "interactionNo" : 8,
+        "expCXCR5pos" : -0.69,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "77",
+        "target" : "78",
+        "expEff" : -0.96,
+        "expCXCR5neg" : -0.2,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : 0.64,
+        "exp_Tex" : 0.61,
+        "shared_name" : "CD28 (interacts with) PI3K",
+        "expNaive" : -0.36,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "CD28 (interacts with) PI3K",
+        "interaction" : "interacts with",
+        "SUID" : 129,
+        "interactionNo" : 5,
+        "expCXCR5pos" : 0.84,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "75",
+        "target" : "74",
+        "expEff" : 0.92,
+        "expCXCR5neg" : 0.77,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Müller and Rao, 2008, NFAT, immunity and cancer: a transcription factor comes of age",
+        "expTcm" : 0.52,
+        "exp_Tex" : -0.46,
+        "shared_name" : "TCR (interacts with) ZAP70",
+        "expNaive" : 0.29,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "TCR (interacts with) ZAP70",
+        "interaction" : "interacts with",
+        "SUID" : 128,
+        "interactionNo" : 3,
+        "expCXCR5pos" : -0.96,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "74",
+        "target" : "107",
+        "expEff" : -0.94,
+        "expCXCR5neg" : -0.45,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Müller and Rao, 2008, NFAT, immunity and cancer: a transcription factor comes of age",
+        "expTcm" : -0.6,
+        "exp_Tex" : -0.38,
+        "shared_name" : "ZAP70 (interacts with) HRAS",
+        "expNaive" : -1.0,
+        "GroupNo" : "RAS",
+        "interactionSign" : "pos",
+        "name" : "ZAP70 (interacts with) HRAS",
+        "interaction" : "interacts with",
+        "SUID" : 127,
+        "interactionNo" : 10,
+        "expCXCR5pos" : -0.53,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "74",
+        "target" : "106",
+        "expEff" : -0.02,
+        "expCXCR5neg" : 0.73,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Müller and Rao, 2008, NFAT, immunity and cancer: a transcription factor comes of age",
+        "expTcm" : -0.12,
+        "exp_Tex" : -0.64,
+        "shared_name" : "ZAP70 (interacts with) KRAS",
+        "expNaive" : -0.17,
+        "GroupNo" : "RAS",
+        "interactionSign" : "pos",
+        "name" : "ZAP70 (interacts with) KRAS",
+        "interaction" : "interacts with",
+        "SUID" : 126,
+        "interactionNo" : 10,
+        "expCXCR5pos" : 0.71,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "74",
+        "target" : "105",
+        "expEff" : 0.62,
+        "expCXCR5neg" : -0.78,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Müller and Rao, 2008, NFAT, immunity and cancer: a transcription factor comes of age",
+        "expTcm" : -0.06,
+        "exp_Tex" : -0.04,
+        "shared_name" : "ZAP70 (interacts with) NRAS",
+        "expNaive" : 1.0,
+        "GroupNo" : "RAS",
+        "interactionSign" : "pos",
+        "name" : "ZAP70 (interacts with) NRAS",
+        "interaction" : "interacts with",
+        "SUID" : 125,
+        "interactionNo" : 10,
+        "expCXCR5pos" : -0.77,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "74",
+        "target" : "80",
+        "expEff" : 0.88,
+        "expCXCR5neg" : -0.89,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.89,
+        "exp_Tex" : 0.03,
+        "shared_name" : "ZAP70 (interacts with) PRKCQ",
+        "expNaive" : -0.91,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "ZAP70 (interacts with) PRKCQ",
+        "interaction" : "interacts with",
+        "SUID" : 124,
+        "interactionNo" : 7,
+        "expCXCR5pos" : 0.7,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "74",
+        "target" : "79",
+        "expEff" : -0.98,
+        "expCXCR5neg" : -0.01,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Müller and Rao, 2008, NFAT, immunity and cancer: a transcription factor comes of age",
+        "expTcm" : 0.71,
+        "exp_Tex" : -0.76,
+        "shared_name" : "ZAP70 (interacts with) CA",
+        "expNaive" : 0.08,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "ZAP70 (interacts with) CA",
+        "interaction" : "interacts with",
+        "SUID" : 123,
+        "interactionNo" : 6,
+        "expCXCR5pos" : 0.84,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "74",
+        "target" : "76",
+        "expEff" : -0.14,
+        "expCXCR5neg" : -0.41,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Müller and Rao, 2008, NFAT, immunity and cancer: a transcription factor comes of age",
+        "expTcm" : -0.8,
+        "exp_Tex" : -0.24,
+        "shared_name" : "ZAP70 (interacts with) Adhesion",
+        "expNaive" : -0.26,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "ZAP70 (interacts with) Adhesion",
+        "interaction" : "interacts with",
+        "SUID" : 122,
+        "interactionNo" : 4,
+        "expCXCR5pos" : -0.94,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "source" : "73",
+        "target" : "74",
+        "expEff" : 0.65,
+        "expCXCR5neg" : -0.52,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.01,
+        "exp_Tex" : 0.68,
+        "shared_name" : "LCK (interacts with) ZAP70",
+        "expNaive" : -0.53,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "LCK (interacts with) ZAP70",
+        "interaction" : "interacts with",
+        "SUID" : 121,
+        "interactionNo" : 2,
+        "expCXCR5pos" : 0.51,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "source" : "72",
+        "target" : "73",
+        "expEff" : -0.38,
+        "expCXCR5neg" : -0.4,
+        "shared_interaction" : "interacts with",
+        "Reference" : "Pollizzi and Powell, 2014, Integrating canonical and metabolic  signalling programmes in the regulation of T cell responses",
+        "expTcm" : -0.24,
+        "exp_Tex" : 0.34,
+        "shared_name" : "CD8 (interacts with) LCK",
+        "expNaive" : 0.02,
+        "GroupNo" : "none",
+        "interactionSign" : "pos",
+        "name" : "CD8 (interacts with) LCK",
+        "interaction" : "interacts with",
+        "SUID" : 120,
+        "interactionNo" : 1,
+        "expCXCR5pos" : -0.71,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
